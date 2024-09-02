@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 Hurro everynyan. Fine sankyuu. Oh my gawd. Hello
-=======
-Hurro everynyan. Fine sankyuu
->>>>>>> Feature-branch
-=======
-Hurro everynyan. Fine sankyuu. Oh my gawd. Hello
->>>>>>> Stashed changes
-=======
-Hurro everynyan. Fine sankyuu. Oh my gawd. Hello
->>>>>>> Stashed changes
