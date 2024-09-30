@@ -5,6 +5,7 @@ Ore no na wa Sumukhan
 dagWDTYS
 ADEAWFWAEFAFE
 ASDEWFDQFDQWEF
+<<<<<<< HEAD
 AEWFQWEDAEDWEFF
 
 
@@ -21,3 +22,6 @@ asdawe
 =======
 SRGER5YE
 >>>>>>> Stashed changes
+=======
+AEWFQWEDAEDWEFF
+>>>>>>> branch3

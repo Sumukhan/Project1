@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hurro everynyan. Fine sankyuu.
 
 
@@ -6,3 +7,6 @@ asdfsefesfg
 aefasefesf
 aefaefaef
 aefaefae
+=======
+Hurro everynyan. Fine sankyuu.
+>>>>>>> branch3
